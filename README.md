@@ -1,1 +1,1 @@
-# yolo1v1-demo
+# yolov11-demo
